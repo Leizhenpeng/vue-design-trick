@@ -7,14 +7,16 @@ Sharing is free but caring is priceless. [So, now please click here](https://www
 ## Let's Gogogogogo！
 
 * **[如何优雅的处理错误](https://www.bilibili.com/video/BV1Y84y1J72z)**
-    
+  
     _优美的框架，用心的不仅仅是功能_
 
 * **[利用proxy实现数据的响应式](https://www.bilibili.com/video/BV1Y84y1J72z)**
-    
+  
     _感谢proxy，不然没有vue3_
 
-
+* **[尤大大竟然这样去玩函数缓存](https://www.bilibili.com/video/BV1a54y137BY)**
+  
+    _函数缓存在事件绑定上的妙用_
 
 
 
